@@ -6,5 +6,6 @@ public class Demo {
     public static void main(String[] args) {
         System.out.println("nihao");
         System.out.println("hahah");
+        System.out.println("分支操作");
     }
 }
