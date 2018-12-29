@@ -11,7 +11,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="aaaa" target="1.8" />
-      <module name="git_day01" target="1.8" />
+      <module name="git_day01" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
